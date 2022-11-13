@@ -380,5 +380,5 @@ gitter:
 ##
 deploy:
   type: git
-  repo: https://github.com/Meigumikato/meigumikato.github.io/ # or https://gitee.com/<yourAccount>/<repo>
+  repo: git@github.com:Meigumikato/meigumikato.github.io.git # or https://gitee.com/<yourAccount>/<repo>
   branch: main
